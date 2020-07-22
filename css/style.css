@@ -1,0 +1,52 @@
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+.top-content {
+    margin: 5vw;
+    border-bottom: 2px solid black;
+    padding-bottom: 5vw;
+}
+
+.top-text {
+    display: inline-block;
+    width: 60vw;
+    font-size: 1rem;
+}
+
+.top-image {
+    display: inline-block;
+    width: 25vw;
+}
+
+.bottom-text {
+    margin: 5vw;
+    font-size: 1rem;
+}
+
+.col1 {
+    display: inline-block;
+    width: 20vw;
+    margin: 2vw;
+    font-size: 1rem;
+}
+
+.col2 {
+    width: 20vw;
+    margin: 2vw;
+}
+
+.col3 {
+    display: inline-block;
+    width: 20vw;
+    margin: 2vw;
+    font-size: 1rem;
+}
+
+.col4 {
+    width: 20vw;
+    margin: 2vw;
+}
