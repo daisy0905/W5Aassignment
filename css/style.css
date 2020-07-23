@@ -50,3 +50,27 @@
     width: 20vw;
     margin: 2vw;
 }
+
+.middle-image {
+    width: 200px;
+    padding: 5px;
+    border: 10px solid orange;
+}
+
+p {
+    padding: 2vw;
+    margin: 2vw;
+    font-size: 1rem;
+}
+
+.bottom-image {
+    width: 50%;
+    padding: 5pt;
+    border: 5pt solid blue;
+}
+
+p {
+    padding: 2vw 3vh;
+    margin: 2vw;
+    font-size: 1em;
+}
